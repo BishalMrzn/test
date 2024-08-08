@@ -1,0 +1,1 @@
+cardContainer.innerHTML="allcards"
